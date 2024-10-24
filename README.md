@@ -27,4 +27,5 @@ This analysis utilizes publicly available datasets on air quality and health sta
 
 Future Improvements
 Incorporate advanced machine learning models to predict health impacts based on air quality.
-Expand the dataset to include more geographical areas and extended time frames.
+Expand the dataset to include more geographical areas and extended time frames
+
